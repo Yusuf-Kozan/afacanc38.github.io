@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg12"
+   version="1.1"
+   height="16"
+   width="60">
+  <metadata
+     id="metadata18">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs16">
+    <clipPath
+       id="a">
+      <rect
+         y="220.75"
+         x="26.85"
+         width="3.825"
+         style="marker:none"
+         height="6.375"
+         color="#bebebe"
+         overflow="visible"
+         fill="#bebebe"
+         stroke-width="2"
+         id="rect3744" />
+    </clipPath>
+    <clipPath
+       id="b">
+      <rect
+         y="221.282"
+         x="26.966"
+         width="2.898"
+         style="marker:none"
+         height="5.313"
+         color="#bebebe"
+         overflow="visible"
+         fill="#bebebe"
+         stroke-width="2"
+         id="rect3747" />
+    </clipPath>
+    <clipPath
+       id="c">
+      <rect
+         y="221.502"
+         x="26.999"
+         width="1.876"
+         style="marker:none"
+         height="4.878"
+         color="#bebebe"
+         overflow="visible"
+         fill="#bebebe"
+         stroke-width="2"
+         id="rect3750" />
+    </clipPath>
+  </defs>
+  <g
+     transform="translate(23.010933)"
+     style="fill:#ffffff"
+     id="g10">
+    <path
+       id="path2"
+       overflow="visible"
+       style="color:#bebebe;overflow:visible;fill:#ffffff;marker:none"
+       d="M 0,5 H 2.484 L 5.454,2 H 6 V 14 H 5.525 L 2.485,11 H 0 Z" />
+    <path
+       id="path4"
+       overflow="visible"
+       style="color:#000000;overflow:visible;fill:#ffffff;marker:none"
+       d="M 15,8 C 15,5.186 14,2.828 12.414,1 H 11 V 2.48 C 12.265,4 13,5.7 13,8 c 0,2.3 -0.78,4 -2,5.52 V 15 h 1.381 C 13.847,13.36 15,10.814 15,8 Z" />
+    <path
+       id="path6"
+       overflow="visible"
+       style="color:#000000;overflow:visible;fill:#ffffff;marker:none"
+       d="M 12,8 C 12,5.834 11.261,3.98 10,3 H 9 v 2 c 0.607,0.789 1,1.76 1,3 0,1.241 -0.393,2.22 -1,3 v 2 h 1 c 1.223,-0.995 2,-2.873 2,-5 z" />
+    <path
+       id="path8"
+       overflow="visible"
+       font-weight="400"
+       style="color:#000000;font-weight:400;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-transform:none;overflow:visible;fill:#ffffff;marker:none"
+       d="M 9,8 C 9,6.743 8.688,5.784 8,5 H 7 v 6 H 8 C 8.672,10.163 9,9.258 9,8 Z" />
+  </g>
+  <g
+     transform="matrix(0.86417158,0,0,0.92809224,43.854496,0.32982294)"
+     style="fill:#ffffff"
+     id="g3730">
+    <path
+       d="m 5,5 v 2 h 6 V 5 Z"
+       style="color:#000000;overflow:visible;fill:#ffffff;marker:none"
+       overflow="visible"
+       id="path3724" />
+    <path
+       d="M 5.469,0 C 4.979,0 4.673,0.216 4.437,0.456 4.202,0.696 4,1.012 4,1.486 V 2 H 2 V 16 H 14 V 2 H 12 V 1.594 L 11.998,1.566 A 1.616,1.616 0 0 0 11.582,0.554 C 11.346,0.276 10.962,-0.03 10.382,0.002 L 10.438,0 Z M 6,2 h 4 v 2 h 2 V 14 H 4 V 4 h 2 z"
+       style="color:#bebebe;font-weight:400;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;text-orientation:mixed;white-space:normal;shape-padding:0;overflow:visible;isolation:auto;mix-blend-mode:normal;fill:#ffffff;marker:none"
+       font-weight="400"
+       overflow="visible"
+       id="path3726" />
+    <path
+       d="m 5,8 v 2 h 6 V 8 Z m 0,3 v 2 h 6 v -2 z"
+       style="color:#000000;overflow:visible;fill:#ffffff;marker:none"
+       overflow="visible"
+       id="path3728" />
+  </g>
+  <g
+     transform="translate(3.0208384,-0.47584418)"
+     style="fill:#ffffff"
+     id="g3763">
+    <path
+       transform="matrix(0,-0.78431,0.94118,0,-202.765,31.059)"
+       clip-path="url(#a)"
+       d="m 27.18,220.508 a 1.164,1.164 0 0 0 -0.81,1.998 c 0.379,0.38 0.59,0.894 0.59,1.432 0,0.537 -0.211,1.051 -0.59,1.431 a 1.164,1.164 0 1 0 1.644,1.645 4.352,4.352 0 0 0 1.275,-3.077 c 0,-1.153 -0.46,-2.26 -1.275,-3.076 a 1.164,1.164 0 0 0 -0.834,-0.353 z"
+       style="color:#000000;font-weight:400;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;text-orientation:mixed;white-space:normal;shape-padding:0;overflow:visible;isolation:auto;mix-blend-mode:normal;fill:#ffffff"
+       font-weight="400"
+       overflow="visible"
+       id="path3755" />
+    <path
+       transform="matrix(0,-1.72549,1.88219,0,-413.493,54.529)"
+       clip-path="url(#b)"
+       d="m 27.186,221.123 a 0.555,0.555 0 0 0 -0.387,0.953 2.632,2.632 0 0 1 0,3.723 0.55507882,0.55507882 0 1 0 0.785,0.785 3.743,3.743 0 0 0 0,-5.293 0.555,0.555 0 0 0 -0.398,-0.168 z"
+       style="color:#000000;font-weight:400;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;text-orientation:mixed;white-space:normal;shape-padding:0;overflow:visible;isolation:auto;mix-blend-mode:normal;fill:#ffffff"
+       font-weight="400"
+       overflow="visible"
+       id="path3757" />
+    <path
+       transform="matrix(0,-2.66667,2.86852,0,-634.374,78)"
+       clip-path="url(#c)"
+       d="m 27.188,221.318 a 0.362,0.362 0 0 0 -0.252,0.621 2.825,2.825 0 0 1 0,3.997 0.362,0.362 0 1 0 0.511,0.511 3.55,3.55 0 0 0 0,-5.02 0.362,0.362 0 0 0 -0.26,-0.109 z"
+       style="color:#000000;font-weight:400;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;text-orientation:mixed;white-space:normal;shape-padding:0;overflow:visible;isolation:auto;mix-blend-mode:normal;fill:#ffffff"
+       font-weight="400"
+       overflow="visible"
+       id="path3759" />
+    <path
+       style="fill:#ffffff"
+       d="m 10,13 a 2,2 0 0 1 -2,2 2,2 0 0 1 -2,-2 2,2 0 0 1 2,-2 2,2 0 0 1 2,2 z"
+       id="path3761" />
+  </g>
+</svg>

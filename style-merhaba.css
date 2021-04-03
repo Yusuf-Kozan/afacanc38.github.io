@@ -1,0 +1,13 @@
+* {
+    font-family: Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+body {
+    background: rgb(29, 29, 29);
+    color: white;
+}
+
+a {
+    color: rgb(92, 174, 241);
+    text-decoration: none;
+}
